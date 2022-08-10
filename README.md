@@ -10,6 +10,6 @@ Long Short Term Memory (LSTM) neural network system to record and predict the us
 ## Contact
 Name: Lee Chong Keat - jerry_keat@hotmail.com
 
-Project Link: [https://github.com/LeeChongKeat/LSTM-Trendline-Forecasting](https://github.com/LeeChongKeat/LSTM-Trendline-Forecasting)
+Project Link: [https://github.com/LeeChongKeat/LSTMEmotionPredictiong](https://github.com/LeeChongKeat/LSTMEmotionPrediction)
 
 Blogger: https://codeallyourlife.blogspot.com/
