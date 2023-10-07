@@ -10,6 +10,6 @@ Long Short Term Memory (LSTM) neural network system to record and predict the us
 ## Contact
 Name: Lee Chong Keat - jerry_keat@hotmail.com
 
-Project Link: [https://github.com/LeeChongKeat/LSTMEmotionPredictiong](https://github.com/LeeChongKeat/LSTMEmotionPrediction)
+Project Link: [https://github.com/LeeChongKeat/LSTM_Emotion_Prediction](https://github.com/LeeChongKeat/LSTM_Emotion_Prediction)
 
 Blogger: https://codeallyourlife.blogspot.com/
